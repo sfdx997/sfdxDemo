@@ -1,0 +1,266 @@
+[
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537909551418,
+            "changeTime": 1537909551418,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537906361997,
+            "changeTime": 1537906361997,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908895238,
+            "changeTime": 1537908895238,
+            "contentHash": "684e86a6ea4886b8d6bf594762109b037339358e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908818228,
+            "changeTime": 1537908818228,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537188435054,
+            "changeTime": 1537906362007,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537910110517,
+            "changeTime": 1537910110517,
+            "contentHash": "9b494c8a0f0d0a83bc4e67cb6de00a45169cc0ed"
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908811477,
+            "changeTime": 1537908811477,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908891174,
+            "changeTime": 1537908891174,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908861978,
+            "changeTime": 1537908861978,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908895238,
+            "changeTime": 1537908895238,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537908852851,
+            "changeTime": 1537908852851,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537909559669,
+            "changeTime": 1537909559669,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537909566414,
+            "changeTime": 1537909566414,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537909607259,
+            "changeTime": 1537909607259,
+            "contentHash": "044020fa8643af0dca2d4503e0e3d2edfc709dc9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default\\classes\\TestExample.cls",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\test\\default\\classes\\TestExample.cls",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1537909715439,
+            "changeTime": 1537909715439,
+            "contentHash": "da6a866956dd5f862aae6c3a864c56ff4c133209",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo",
+        {
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537906361980,
+            "changeTime": 1537906362047,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes\\TestClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes\\TestClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1537910110511,
+            "changeTime": 1537910110511,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes\\TestClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\lust\\Desktop\\Repos\\sfdxDemo\\force-app\\main\\default\\classes\\TestClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1537910110521,
+            "changeTime": 1537910110521,
+            "contentHash": "dfd45e9affc1ea6ceb93282e6e19407d61d69165"
+        }
+    ]
+]
