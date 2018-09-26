@@ -8,6 +8,6 @@ private class TestClass {
 
         @isTest static void test2ReturnsTrue() {
 
-        System.assertEquals(2, 2);
+        System.assertEquals(2, 1);
     }
 }
