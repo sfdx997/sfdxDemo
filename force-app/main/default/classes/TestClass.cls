@@ -5,4 +5,9 @@ private class TestClass {
 
         System.assertEquals(1, 1);
     }
+
+        @isTest static void test2ReturnsTrue() {
+
+        System.assertEquals(2, 2);
+    }
 }
