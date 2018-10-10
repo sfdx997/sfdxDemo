@@ -1,4 +1,4 @@
 node {
-    powershell 'Write-Output "Hello, World!"'
-    powershell script.ps1
+
+    powershell ./script.ps1
 }
