@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>TestClass</members>
+    <members>TestClass2</members>
+    <members>TestClass3</members>
+  </types>
+  <version>43.0</version>
+  <fullName>package2.xml</fullName>
+</Package>
